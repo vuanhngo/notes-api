@@ -1,6 +1,6 @@
 # Serverless directories
 .serverless
-
+.idea
 # golang output binary directory
 bin
 
